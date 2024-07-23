@@ -14,7 +14,9 @@
   </div>
 </div>
   <!-- 뱃지 섹션 시작 -->
-  <div style="margin-top: 20px;">
+
+  <div>
+    <br>
     <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow" alt="JavaScript Badge">
     <img src="https://img.shields.io/badge/Python-3.8-blue" alt="Python Badge">
     <img src="https://img.shields.io/badge/React-17.0.2-blue" alt="React Badge">
@@ -23,4 +25,18 @@
   <!-- 뱃지 섹션 끝 -->
 </div>
 
+<div style= "margin-top: 100px;">
+**mily077/mily077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+</div>
 <!-- 프로필 섹션 끝 -->
