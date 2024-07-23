@@ -13,4 +13,14 @@
     </a>
   </div>
 </div>
+  <!-- 뱃지 섹션 시작 -->
+  <div style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/Python-3.8-blue" alt="Python Badge">
+    <img src="https://img.shields.io/badge/React-17.0.2-blue" alt="React Badge">
+    <img src="https://img.shields.io/badge/Docker-20.10.7-blue" alt="Docker Badge">
+  </div>
+  <!-- 뱃지 섹션 끝 -->
+</div>
+
 <!-- 프로필 섹션 끝 -->
