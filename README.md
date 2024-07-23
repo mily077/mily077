@@ -9,7 +9,7 @@
   </p>
   <div>
     <a href="https://your-portfolio-link.com" style="text-decoration: none; color: white; background-color: #007bff; padding: 10px 20px; border-radius: 5px; font-family: 'Arial', sans-serif; box-shadow: 0px 0px 10px rgba(0, 123, 255, 0.3);">
-      포트폴리오 보기
+      Portfolio
     </a>
   </div>
 </div>
